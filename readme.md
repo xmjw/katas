@@ -10,3 +10,5 @@ coding tests for candidates. As they're all about 10 - 50 minutes work.
 - profit - can you find the in-order, largest difference (profit!) on an array, without an O(n^2) algorithm.
 - euclide - Implement Euclid's algoithm for finding common factors of 2 numbers
 - binary search - Simple binary search exercise that find a value in a sorted array
+- largest common subsequence - What common sequences of non-sequential nodes are in an array
+
